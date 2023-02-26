@@ -1,0 +1,5 @@
+whitelist:
+  - "http://localhost:5173"
+  - "https://todo.jmzzz.cn"
+
+version: "V0.1 beta by Jazee"
